@@ -34,6 +34,7 @@ INSERT INTO characters VALUES (8, "Bismuth", "Upgrade it", "Gem", 2, 2);
 
 -- character_books: id, character_id, book_id
 
+
 INSERT INTO character_books VALUES (1, 1, 3);
 INSERT INTO character_books VALUES (2, 2, 1);
 INSERT INTO character_books VALUES (3, 2, 2);
@@ -48,3 +49,5 @@ INSERT INTO character_books VALUES (11, 6, 5);
 INSERT INTO character_books VALUES (12, 6, 6);
 INSERT INTO character_books VALUES (13, 7, 4);
 INSERT INTO character_books VALUES (14, 8, 5);
+INSERT INTO character_books VALUES (15, 1, 1);
+INSERT INTO character_books VALUES (16, 1, 2);
