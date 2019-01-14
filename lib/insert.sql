@@ -34,19 +34,17 @@ INSERT INTO characters VALUES (8, "Bismuth", "Upgrade it", "Gem", 2, 2);
 
 -- character_books: id, character_id, book_id
 
-INSERT INTO character_books VALUES (1, 1, 1);
-INSERT INTO character_books VALUES (2, 1, 2);
-INSERT INTO character_books VALUES (1, 3);
-INSERT INTO character_books VALUES (2, 1);
-INSERT INTO character_books VALUES (2, 2);
-INSERT INTO character_books VALUES (2, 3);
-INSERT INTO character_books VALUES (3, 1);
-INSERT INTO character_books VALUES (4, 2);
-INSERT INTO character_books VALUES (5, 4);
-INSERT INTO character_books VALUES (5, 5);
-INSERT INTO character_books VALUES (5, 6);
-INSERT INTO character_books VALUES (6, 4);
-INSERT INTO character_books VALUES (6, 5);
-INSERT INTO character_books VALUES (6, 6);
-INSERT INTO character_books VALUES (7, 4);
-INSERT INTO character_books VALUES (8, 5);
+INSERT INTO character_books VALUES (1, 1, 3);
+INSERT INTO character_books VALUES (2, 2, 1);
+INSERT INTO character_books VALUES (3, 2, 2);
+INSERT INTO character_books VALUES (4, 2, 3);
+INSERT INTO character_books VALUES (5, 3, 1);
+INSERT INTO character_books VALUES (6, 4, 2);
+INSERT INTO character_books VALUES (7, 5, 4);
+INSERT INTO character_books VALUES (8, 5, 5);
+INSERT INTO character_books VALUES (9, 5, 6);
+INSERT INTO character_books VALUES (10, 6, 4);
+INSERT INTO character_books VALUES (11, 6, 5);
+INSERT INTO character_books VALUES (12, 6, 6);
+INSERT INTO character_books VALUES (13, 7, 4);
+INSERT INTO character_books VALUES (14, 8, 5);
