@@ -34,8 +34,8 @@ INSERT INTO characters VALUES (8, "Bismuth", "Upgrade it", "Gem", 2, 2);
 
 -- character_books: id, character_id, book_id
 
-INSERT INTO character_books VALUES (1, 1);
-INSERT INTO character_books VALUES (1, 2);
+INSERT INTO character_books VALUES (1, 1, 1);
+INSERT INTO character_books VALUES (2, 1, 2);
 INSERT INTO character_books VALUES (1, 3);
 INSERT INTO character_books VALUES (2, 1);
 INSERT INTO character_books VALUES (2, 2);
