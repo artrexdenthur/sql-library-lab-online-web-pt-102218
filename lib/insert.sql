@@ -22,14 +22,37 @@ INSERT INTO books VALUES (6, "B23", 2013, 2);
 
 -- characters: id, name, motto, species, author_id, series_id
 
-INSERT INTO characters VALUES (1, "Ayn", "");
+INSERT INTO characters VALUES (1, "Ayn", "Buy it", "ATM", 1, 1);
+INSERT INTO characters VALUES (2, "");
 INSERT INTO characters VALUES ();
 INSERT INTO characters VALUES ();
 INSERT INTO characters VALUES ();
 INSERT INTO characters VALUES ();
 INSERT INTO characters VALUES ();
 INSERT INTO characters VALUES ();
-INSERT INTO characters VALUES ();
+
+Buy it, use it, break it, fix it,
+Trash it, change it, mail, upgrade it,
+Charge it, point it, zoom it, press it,
+Snap it, work it, quick, erase it,
+Write it, cut it, paste it, save it,
+Load it, check it, quick, rewrite it
+Plug it, play it, burn it, rip it,
+Drag and drop it, zip, unzip it,
+Lock it, fill it, curl it, find it,
+View it, code it, jam, unlock it 
+Surf it, scroll it, pose it, click it
+Cross it, crack it, twitch, update it,
+Name it, read it, tune it, print it,
+Scan it, send it, fax, rename it,
+Touch it, bring it, pay it, watch it,
+Turn it, leave it, stop, format it.
+Buy it, use it, break it, fix it,
+Trash it, change it, mail, upgrade it,
+Charge it, point it, zoom it, press it,
+Snap it, work it, quick, erase it,
+Write it, cut it, paste it, save it,
+Load…
 
 -- character_books: id, character_id, book_id
 
