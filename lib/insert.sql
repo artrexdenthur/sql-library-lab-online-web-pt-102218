@@ -28,8 +28,8 @@ INSERT INTO characters VALUES (3, "Hulk", "Break it", "Metahuman", 1, 1);
 INSERT INTO characters VALUES (4, "Felix", "Fix it", "Pixels", 1, 1);
 INSERT INTO characters VALUES (5, "Oscar", "Trash it", "Muppet", 2, 2);
 INSERT INTO characters VALUES (6, "Tedd", "Change it", "Goddess", 2, 2);
-INSERT INTO characters VALUES (7, );
-INSERT INTO characters VALUES ();
+INSERT INTO characters VALUES (7, "Jamie", "Mail it", "Thespian", 2, 2);
+INSERT INTO characters VALUES (8, "");
 
 Buy it, use it, break it, fix it,
 Trash it, change it, mail, upgrade it,
