@@ -1,6 +1,7 @@
 -- series: id, title, author_id, subgenre_id
 
-INSERT 
+INSERT INTO series VALUES (1, "S1", 1, 1)
+INSERT INTO series VALUES (2, "S2", 2, 2)
 
 -- subgenres: id, name
 
